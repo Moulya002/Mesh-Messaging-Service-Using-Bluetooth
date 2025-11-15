@@ -1,4 +1,5 @@
 **📡 Mesh Messaging Service Using Bluetooth**
+
 An alternate way of communication using Bluetooth technology
 **🚀 Overview**
 
@@ -7,8 +8,8 @@ It is designed for use in situations where traditional connectivity is unavailab
 
 The system establishes a mesh-like communication network using Bluetooth proximity, allowing nearby devices to discover each other, exchange messages, and maintain communication with minimal hardware requirements.
 
-🧠 Technical Summary (Deep Dive)
-🔹 Purpose & Motivation
+**🧠 Technical Summary (Deep Dive)**
+**🔹 Purpose & Motivation**
 
 Provide an alternative communication channel without relying on Wi-Fi, mobile data, or telecom infrastructure.
 
@@ -100,7 +101,7 @@ Demonstrated practical offline communication in real environments
 
 Sufficient for emergency or basic peer-to-peer messaging
 
-**🧪 How to Use **
+**🧪 How to Use**
 
 Enable Bluetooth on the device
 
