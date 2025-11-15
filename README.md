@@ -1,6 +1,7 @@
 **📡 Mesh Messaging Service Using Bluetooth**
 
 An alternate way of communication using Bluetooth technology
+
 **🚀 Overview**
 
 This project implements a Bluetooth-based peer-to-peer communication system that enables messaging without internet or cellular networks.
@@ -9,6 +10,7 @@ It is designed for use in situations where traditional connectivity is unavailab
 The system establishes a mesh-like communication network using Bluetooth proximity, allowing nearby devices to discover each other, exchange messages, and maintain communication with minimal hardware requirements.
 
 **🧠 Technical Summary (Deep Dive)**
+
 **🔹 Purpose & Motivation**
 
 Provide an alternative communication channel without relying on Wi-Fi, mobile data, or telecom infrastructure.
@@ -29,27 +31,27 @@ Based on the report content, the system includes the following components:
 
 Device Discovery Module
 
-Identifies nearby Bluetooth-enabled devices.
+Identifies nearby Bluetooth-enabled devices
 
-Uses proximity scanning to maintain active peer lists.
+Uses proximity scanning to maintain active peer lists
 
 Message Exchange Layer
 
-Manages sending and receiving of chat messages.
+Manages sending and receiving of chat messages
 
-Ensures delivery within the Bluetooth range limit.
+Ensures delivery within the Bluetooth range limit
 
 Secure Communication
 
-Implements encrypted message transmission (AES/secure pairing).
+Implements encrypted message transmission (AES/secure pairing)
 
-Protects data from unauthorized access.
+Protects data from unauthorized access
 
 User Interface (UI)
 
-Simple interface for sending/receiving messages.
+Simple interface for sending/receiving messages
 
-Displays nearby available peers.
+Displays nearby available peers
 
 **🔹 Key Features**
 
