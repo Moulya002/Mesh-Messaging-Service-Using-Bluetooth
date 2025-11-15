@@ -17,13 +17,13 @@ Provide an alternative communication channel without relying on Wi-Fi, mobile da
 
 **Ensure connectivity in situations like:**
 
-Natural disasters
+    Natural disasters
 
-Network outages
+    Network outages
 
-Low-coverage areas
+    Low-coverage areas
 
-Security-focused offline communication
+    Security-focused offline communication
 
 **🔹 System Architecture**
 
@@ -31,27 +31,27 @@ Based on the report content, the system includes the following components:
 
 Device Discovery Module
 
-Identifies nearby Bluetooth-enabled devices
+    Identifies nearby Bluetooth-enabled devices
 
-Uses proximity scanning to maintain active peer lists
+    Uses proximity scanning to maintain active peer lists
 
 Message Exchange Layer
 
-Manages sending and receiving of chat messages
+    Manages sending and receiving of chat messages
 
-Ensures delivery within the Bluetooth range limit
+    Ensures delivery within the Bluetooth range limit
 
 Secure Communication
 
-Implements encrypted message transmission (AES/secure pairing)
+    Implements encrypted message transmission (AES/secure pairing)
 
-Protects data from unauthorized access
+    Protects data from unauthorized access
 
 User Interface (UI)
 
-Simple interface for sending/receiving messages
+    Simple interface for sending/receiving messages
 
-Displays nearby available peers
+    Displays nearby available peers
 
 **🔹 Key Features**
 
@@ -69,27 +69,27 @@ Displays nearby available peers
 
 **🔹 Advantages**
 
-No internet or SIM card required
+    No internet or SIM card required
 
-Works in emergencies
+    Works in emergencies
 
-Secure and private
+    Secure and private
 
-Low cost and easy to deploy
+    Low cost and easy to deploy
 
 **⚙️ Technologies & Tools**
 
 Based on the report references:
 
-Bluetooth Classic / BLE
+    Bluetooth Classic / BLE
 
-Android SDK (if implemented on Android)
+    Android SDK (if implemented on Android)
 
-Java / Kotlin
+    Java / Kotlin
 
-Encryption libraries (AES / Android Security APIs)
+    Encryption libraries (AES / Android Security APIs)
 
-Messaging and service-binding frameworks
+    Messaging and service-binding frameworks
 
 **📈 Results & Observations**
 
@@ -105,15 +105,15 @@ Sufficient for emergency or basic peer-to-peer messaging
 
 **🧪 How to Use**
 
-Enable Bluetooth on the device
+    Enable Bluetooth on the device
 
-Install and open the app
+    Install and open the app
 
-Allow necessary permissions (Bluetooth, location)
+    Allow necessary permissions (Bluetooth, location)
 
-Discover nearby peers
+    Discover nearby peers
 
-Start messaging
+    Start messaging
 
 **🔗 Contact**
 
